@@ -1,7 +1,7 @@
 # ar-text-to-speech
 A website to transform arabic speech to text using javascript.
 
-Submitting the first task for Smart Methods training progragm which's first part is to make a website that supports arabic speech to text using javascript, and the second part which's the algorithm for setting up the ESP32 chip.
+Submitting the first task for Smart Methods training progragm which's first part is to make a website that supports arabic speech to text using javascript, and the second part which's the algorithm for setting up the ESP32 chip to be able to connect the robot with the web.
 
 Instructions to set up ESP32:
 
@@ -18,3 +18,4 @@ Instructions to set up ESP32:
 6-	Before compiling the code, select the port from tools -> port, and from tools -> board -> ESP32 arduino select “WEMOS D1 MINI ESP32” 
 
 7-	Compile the code. (Result: the light in the chip should start blinking according to the speed specified in the code)
+
